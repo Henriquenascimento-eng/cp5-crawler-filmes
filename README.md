@@ -6,6 +6,13 @@ da Wikipédia, armazena no **MongoDB Atlas**, disponibiliza por uma
 
 Fluxo: `Wikipédia → coleta/ → banco_dados/ → api/ → painel/`
 
+# Integrantes do Grupo
+Andrey luigi rm569575 - 
+Nicolas Moreira rm571510 -  
+Lucas Trevisan rm569731 - 
+Henrique da Silva rm569137 - 
+
+
 ## Site escolhido e dados coletados
 
 - **Site:** Wikipédia — página *List of highest-grossing films*
