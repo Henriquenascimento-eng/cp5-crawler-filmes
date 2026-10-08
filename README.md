@@ -109,14 +109,14 @@ python coleta/crawler_wiki.py         # coleta os 50 filmes completos
 **2. Subir a API:**
 ```bash
 cd api
-uvicorn main:app --reload
+py -m uvicorn main:app --reload
 ```
 Documentação interativa em `http://localhost:8000/docs`.
 
 **3. Subir o painel** (em outro terminal, com a API já rodando):
 ```bash
 cd painel
-streamlit run app.py
+py -m streamlit run app.py
 ```
 
 ## Endpoints da API
